@@ -1,20 +1,17 @@
 # B.A.N.J.O
 Bipedal Autonomous Navigation and Joint Optimization.
+---
+
+## Project Overview
 
 
-An ongoing project to build my most advanced robot yet.
+B.A.N.J.O. is an advanced quadruped robot project focusing on autonomous navigation, adaptive locomotion, and intelligent decision-making. This project aims to develop a highly versatile and efficient robotic platform capable of operating in diverse environments with minimal human intervention.
 
-Target Specifications
+### Key Features
 
-- Dimensions: Approximately 1.1m length, 0.5m width, 0.7m height
-
-- Weight: Target weight of 30-35kg
-
-- Payload: Designed to carry up to 14kg of additional equipment
-
-- Speed: Capable of walking at 1.6 m/s and trotting at 3 m/s
-
-- Battery Life: Aiming for 90 minutes of active operation
-
-- Degrees of Freedom: 12 (3 per leg) for locomotion, plus additional DoF for sensor mounts and optional arm
-
+    Advanced locomotion and gait optimization
+    Intelligent navigation and path planning
+    Adaptive behavior learning
+    Human-robot interaction capabilities
+    Energy-efficient operation and self-charging
+    Robust safety systems and ethical decision-making
